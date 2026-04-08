@@ -2,6 +2,7 @@
   "name": "skills-risk-scanner",
   "private": true,
   "version": "0.1.0",
+  "description": "Static Vite app for locally scanning skill ZIP packages in the browser.",
   "type": "module",
   "scripts": {
     "dev": "vite",
