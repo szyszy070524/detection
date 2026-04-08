@@ -57,6 +57,10 @@ npm run build
 
 The static output will be generated in `dist/`.
 
+## Test preview
+
+Preview URL: [https://detection.szyszy070524.workers.dev/](https://detection.szyszy070524.workers.dev/)
+
 ### Website usage
 
 1. Open the site in your browser.
